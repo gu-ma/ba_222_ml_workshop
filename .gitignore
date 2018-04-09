@@ -1,0 +1,11 @@
+# General
+.DS_Store
+*.key
+
+# tfjs
+node_modules
+dist
+.cache
+yarn-error.log
+yarn.lock
+*.tgz

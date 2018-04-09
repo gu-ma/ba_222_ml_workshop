@@ -1,0 +1,6 @@
+[submodule "examples/ml5-examples"]
+	path = examples/ml5-examples
+	url = https://github.com/ml5js/ml5-examples
+[submodule "examples/tfjs-examples"]
+	path = examples/tfjs-examples
+	url = https://github.com/tensorflow/tfjs-examples.git
