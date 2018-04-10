@@ -4,3 +4,12 @@
 [submodule "examples/tfjs-examples"]
 	path = examples/tfjs-examples
 	url = https://github.com/tensorflow/tfjs-examples.git
+[submodule "examples/brain.js"]
+	path = examples/brain.js
+	url = https://github.com/BrainJS/brain.js
+[submodule "examples/ml4a-ofx"]
+	path = examples/ml4a-ofx
+	url = https://github.com/ml4a/ml4a-ofx
+[submodule "examples/ofxMSATensorFlow"]
+	path = examples/ofxMSATensorFlow
+	url = https://github.com/memo/ofxMSATensorFlow
